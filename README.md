@@ -36,7 +36,7 @@ class Person
     self.age += 1
   end
 end
-```
+``
 
 Follow along with the specs in `spec/cash_register_spec.rb`. Reading along with what the tests are looking for can be really helpful!
 
